@@ -1,6 +1,6 @@
 ---
 title: Body and Soul (1930 song)
-linkTitle: Body and Soul (1930 song)
+linkTitle: Body and Soul
 tags: [jazz,major]
 date: 2019-02-08
 ---

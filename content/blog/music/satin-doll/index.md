@@ -1,5 +1,5 @@
 ---
-title: Satin Doll
+title: Satin Dolls
 tags: [jazz,major]
 date: 2019-02-15
 ---
