@@ -1,3 +1,3 @@
-module github.com/bep/hugo-dummy-content
+module github.com/bep/hugo-mod-dummy-content
 
-go 1.14
+go 1.16
